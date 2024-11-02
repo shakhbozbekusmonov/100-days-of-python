@@ -201,4 +201,5 @@ pyrightconfig.json
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 
 
-# End of https://www.toptal.com/developers/gitignore/api/python,pythonvanilla
+# End of https://www.toptal.com/developers/gitignore/api/python,pythonvanilla.idea
+.idea
